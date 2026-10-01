@@ -24,8 +24,8 @@ const NavBar = () => {
                 <div className="flex flex-row justify-center md:px-12 md:mx-12 items-center text-center font-semibold">
                     <img
                         src={Logo}
-                        alt="ZYBORA Technologies"
-                        className="h-40 w-auto object-contain"
+                        alt="AVIORA Technologies"
+                        className="h-8 w-auto object-contain"
                     />
                 </div>
                 <div className="group flex flex-col items-center">

@@ -194,11 +194,7 @@ const Contact = () => {
 
                                 <div className="flex flex-col">
                                     <h2 className="text-2xl">Call Us</h2>
-                                    <p className="text-gray-400 flex items-center gap-2">
-                                        <FaPhoneAlt />
-                                        +91-8810309929
-                                    </p>
-
+                                   
                                     <p className="text-gray-400 flex items-center gap-2">
                                         <FaPhoneAlt />
                                         +91-9718392581
@@ -210,7 +206,7 @@ const Contact = () => {
                                             href="mailto:support@zyboragroup.com"
                                             className="text-gray-400 hover:text-blue-500 flex items-center gap-2">
                                             <FaEnvelope />
-                                            support@zyboragroup.com
+                                            support@avioratechnologies.in
                                         </a>                                    </div>
                                 </div>
                             </div>

@@ -30,7 +30,7 @@ function App() {
     });
   }, []);
 
-  useDocTitle("Zybora| Technology & Innovation - Bespoke Web and Mobile Applications");
+  useDocTitle("Aviora | Technology & Innovation - Bespoke Web and Mobile Applications");
 
   return (
     <>

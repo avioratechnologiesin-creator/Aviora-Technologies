@@ -31,7 +31,7 @@ const Footer = () => {
                                         href="mailto:support@zyboragroup.com"
                                         className="text-gray-400 hover:text-blue-500 flex items-center gap-2">
                                         <FaEnvelope />
-                                        support@zyboragroup.com
+                                        support@avioratechnologies.in
                                     </a>
                                 </div>
                             </div>
@@ -122,7 +122,7 @@ const Footer = () => {
                                     to="#"
                                     className=" hover:text-gray-900"
                                 >
-                                    ZYBORA GROUP
+                                    AVIORA TECHNOLOGIES
                                 </HashLink>. All rights reserved.
                             </div>
                         </div>
